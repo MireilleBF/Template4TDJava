@@ -60,3 +60,14 @@ out/
 
 # SonarLint plugin
 .idea/sonarlint/
+
+# Eclipse and IntelliJ exclusions
+**/target
+**/*.iml
+.idea
+**/.idea
+**/*.exe
+
+**/.classpath
+**/.project
+**/.settings
