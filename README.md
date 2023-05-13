@@ -1,10 +1,10 @@
 # Template4TDJava
 
-Template for java and .md
+Template for java and maven
 
 ## Here is the introduction to this journal
 
 My code is there
 
-## Pour exécuter
+## To execute the program:
 mvn -B package --file pom.xml
