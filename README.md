@@ -10,3 +10,5 @@ Template for java and maven
 <pre>
 mvn -B package --file pom.xml
 </pre>
+
+With each push, this command is executed and runs all the tests.
